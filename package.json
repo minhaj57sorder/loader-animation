@@ -1,12 +1,23 @@
 {
-  "name": "package",
+  "name": "loader-animation",
   "version": "1.0.0",
   "description": "loader animation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "LOADERANIMATION"
+  ],
+  "author": "Minhaj Sorder",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhaj57sorder/loader-animation.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/minhaj57sorder/loader-animation/issues"
+  },
+  "homepage": "https://github.com/minhaj57sorder/loader-animation#readme"
 }
